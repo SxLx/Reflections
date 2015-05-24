@@ -1,0 +1,13 @@
+By just showing me the areas that were different, I was able to quickly scan through the code and identify the issue. This is a very usefull tool for keeping track of changes to the code and being able to reference older versions. 
+
+Seeing a file's history allows me to quickly troubleshoot different version of the file to see when certain errors showed up and then identify the changes that lead to those errors. 
+
+The pros of manual commits are you deside when a suffienct amount of changes were made in order to justify a commit. The downside is if you forget to make commits or have a computer crash, changes can get lost. 
+
+Google docs isn't made for files that are interconnected unlike Git. 
+
+Git log allows you to pull up all the commits and scroll thorugh them. git diff allows you to compare 2 commits to see what the changes were and scroll through them. 
+
+Version control will allow me to easily compare code to see why the new version is acting incorrectly. I can always go back if a feature doesn't work. 
+
+I intend to use Git to improve my website more effectivly.
