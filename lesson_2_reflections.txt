@@ -1,1 +1,11 @@
-asdf
+When you initialize a repository Git creates the necessary files to allow you to commit the repository. 
+
+Staging area allows you to control the way files are commited. This allows you to split them up if you worked on two different areas and want to keep the changes seperate. 
+
+By only adding the specifc files you want to update to the staging area, you can control the contants of the commit. 
+
+Branches are useful if you'd like to try some experimental features or create different versions of the code. 
+
+Diagrams are useful becaues they show how the branches split off and why certain branches may not show up. 
+
+In the merge the master and branch were brought together in order to combine the changes. 
